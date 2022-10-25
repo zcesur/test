@@ -12,7 +12,7 @@ yarn
 #### Set up authentication
 You'll need an access token from Algora. Navigate to your [user settings](/user/settings/applications) to create one
 
-![](/algora/w23/raw/branch/master/docs/create-access-token.png)
+![](https://app.algora.io/algora/w23/raw/branch/master/docs/create-access-token.png)
 
 Then, create a file named `.env` at the project root with your access token:
 
